@@ -1,4 +1,4 @@
-porting Dabble to RTL8720 (AmebaD)
+Porting Dabble to RTL8720 (AmebaD)
 https://github.com/STEMpedia/DabbleESP32
 
 Whether you’re a student, a teacher, or a hobbyist, Dabble is the perfect place for all your DIYing needs. It transforms your Smartphone into a virtual I/O device and lets you control hardware via Bluetooth, communicate with it, access sensors like accelerometer, GPS, proximity and other features of your Smartphone. It also provides you with dedicated projects compatible with Scratch and Arduino to help you learn by doing. Currently Dabble is avaiable for Android users(coming soon for iPhone users) and its is supported on Android version 5.0.0 and above. One can download the app from Google PlayStore with this link given below. [https://play.google.com/store/apps/details?id=io.dabbleapp]
