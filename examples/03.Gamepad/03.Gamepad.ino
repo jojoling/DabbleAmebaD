@@ -12,7 +12,7 @@
 void setup() {
   // put your setup code here, to run once:
   Serial.begin(115200);      // make sure your Serial Monitor is also set at this baud rate.
-  Dabble.begin("MyEsp32");       //set bluetooth name of your device
+  Dabble.begin("MyAmeba");       //set bluetooth name of your device
 }
 
 void loop() {
